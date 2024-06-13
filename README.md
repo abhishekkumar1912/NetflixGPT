@@ -1,4 +1,4 @@
-# OTT-Platform with Movie Recommendation
+# NetflixGPT
 
 ![Project Screenshots](screenshots/signup.png)
 ![Project Screenshots](screenshots/login.png)
@@ -7,9 +7,6 @@
 ![Project Screenshots](screenshots/gptSearch.png)
 ![Project Screenshots](screenshots/movie.png)
 
-
-## Demo
-Check out the live demo: [Netflix Clone Demo](https://ott-platform-d5cf6.web.app/)
 
 ## Technologies Used
 - React
@@ -20,7 +17,7 @@ Check out the live demo: [Netflix Clone Demo](https://ott-platform-d5cf6.web.app
 - TMDB API
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/AnandRoy8121/ott-platform.git`
+1. Clone the repository: `https://github.com/abhishekkumar1912/NetflixGPT.git`
 2. Navigate to the project directory: `cd ott-platform`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
@@ -51,16 +48,6 @@ Check out the live demo: [Netflix Clone Demo](https://ott-platform-d5cf6.web.app
 ## Future Improvements
 - Implement user authentication.
 - Allow users to save favorite movies.
-
-## Contact Information
-- GitHub: [My GitHub Profile](https://github.com/AnandRoy8121)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/anand-roy-2ba991127/)
-- Email: anandroy151997@gmail.com.com
-
-
-
-
-
 
 
 ## Code Examples
